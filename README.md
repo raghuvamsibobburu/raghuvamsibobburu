@@ -5,5 +5,5 @@ Hello! I'm **Raghuvamsi Bobburu** - Welcome to my GitHub, this repository showca
 🔭 I'm Currently working on: **Real-time DevSecOps implementation projects using AWS, Jenkins, Dockers, Terraforms, Ansible, SonarQube, Kubernetes.**
 🌱 I'm Learning: **Advanced CI/CD pipelines, Kubernetes security, and cloud-native DevSecOps practices**
 🤝 Open to collaborating on: **DevOps, Security Automation, and Cloud Infrastructure projects, cloud-native Devops pipelines and secure CI/CD workflows.**
-📫 Reach me at: [https://www.linkedin.com/in/bobbururaghuvamsi06041999]
-🤓 Fun fact: I Love automating Everything-even my coffee machine using Raspberry Pi 
+📫 Reach me at: **[https://www.linkedin.com/in/bobburu-raghuvamsi06041999]**
+🤓 Fun fact: **I Love automating Everything-even my coffee machine using Raspberry Pi**
